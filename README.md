@@ -13,17 +13,19 @@ Tableau Public: Used for sharing the dashboard online.
 ### Exploratory Data Analysis
 To gain comprehensive insights from the British Airways review data between March 2016 and October 2023, the following questions were explored:
 
-Overall Performance: Which countries have the highest and lowest average ratings for British Airways?
-Service Metrics: How do service metrics like cabin staff service and ground service vary by country and over time?
-Seat Comfort: What are the trends in seat comfort ratings across different seat types and traveler types?
-Traveler Experience: How do the experiences of different traveler types (e.g., business class vs. economy class) compare in terms of overall satisfaction and specific service metrics?
-Aircraft Type Impact: Does the type of aircraft have a significant impact on traveler ratings and satisfaction?
-Trends Over Time: How have British Airways' service ratings changed from 2016 to 2023?
+ - Overall Performance: Which countries have the highest and lowest average ratings for British Airways?
+ - Service Metrics: How do service metrics like cabin staff service and ground service vary by country and over time?
+ - Seat Comfort: What are the trends in seat comfort ratings across different seat types and traveler types?
+ - Traveler Experience: How do the experiences of different traveler types (e.g., business class vs. economy class) compare in terms of overall satisfaction and specific service metrics?
+ - Aircraft Type Impact: Does the type of aircraft have a significant impact on traveler ratings and satisfaction?
+ - Trends Over Time: How have British Airways' service ratings changed from 2016 to 2023?
 
 ### Visualization
 This dashboard provides an interactive platform for users to explore the data, select relevant parameters, and gain insights into British Airways' performance across various countries and metrics.
+Here's a link to the dashboard: https://public.tableau.com/app/profile/ana.m7389/viz/BritishAirways_reviewsbycountry_map/BAMapDashboard
 
 Here is a screenshot of the ready visualization:
+![BA tableau snip](https://github.com/user-attachments/assets/7e1cc7d2-0e38-401e-8a24-6e12a66a8d12)
 
 
 
