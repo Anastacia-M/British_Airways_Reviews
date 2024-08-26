@@ -4,7 +4,7 @@
 This data analysis project aims to analyze British Airways reviews across various countries from March 2016 to October 2023. The analysis focuses on different service metrics, seat types, traveler categories, and aircraft models, with the goal of identifying patterns, making data-driven recommendations, and enhancing our understanding of the airline’s performance by country. The primary objective was to create a visualization that allows users to explore these metrics and filter data based on relevant parameters.
 
 ### Data Sources
-The primary datasets used for this analysis are the "ba_reviews" and "Countries" files. These datasets include comprehensive details on each review, such as overall rating, cabin staff service, entertainment, food & beverages, ground service, seat comfort, as well as seat type, traveler type, aircraft type, and other relevant information.
+The primary datasets used for this analysis are the [ba_reviews.csv](https://github.com/user-attachments/files/16742580/ba_reviews.csv) and [Countries.csv](https://github.com/user-attachments/files/16742583/Countries.csv) files. The first dataset includes comprehensive details on each review, such as overall rating, cabin staff service, entertainment, food & beverages, ground service, seat comfort, as well as seat type, traveler type, aircraft type, and other relevant information. The second file contains country name, code, region, and continent.
 
 ### Tools
  - **Tableau Desktop:** Used for data analysis, report creation, and visualizations.
