@@ -7,8 +7,8 @@ This data analysis project aims to analyze British Airways reviews across variou
 The primary datasets used for this analysis are the "ba_reviews" and "Countries" files. These datasets include comprehensive details on each review, such as overall rating, cabin staff service, entertainment, food & beverages, ground service, seat comfort, as well as seat type, traveler type, aircraft type, and other relevant information.
 
 ### Tools
-Tableau Desktop: Used for data analysis, report creation, and visualizations.
-Tableau Public: Used for sharing the dashboard online.
+ - **Tableau Desktop:** Used for data analysis, report creation, and visualizations.
+ - **Tableau Public:** Used for sharing the dashboard online.
 
 ### Exploratory Data Analysis
 To gain comprehensive insights from the British Airways review data between March 2016 and October 2023, the following questions were explored:
