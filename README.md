@@ -21,8 +21,15 @@ To gain comprehensive insights from the British Airways review data between Marc
  - How have British Airways' service ratings changed from 2016 to 2023?
 
 ### Visualization
-This dashboard provides an interactive platform for users to explore the data, select relevant parameters, and gain insights into British Airways' performance across various countries and metrics.
-Here's a link to the dashboard: https://public.tableau.com/app/profile/ana.m7389/viz/BritishAirways_reviewsbycountry_map/BAMapDashboard
+This dashboard provides an interactive platform for users to explore the data, select relevant parameters, and gain insights into British Airways' performance across various countries and metrics. You can access the dashboard via the following link: https://public.tableau.com/app/profile/ana.m7389/viz/BritishAirways_reviewsbycountry_map/BAMapDashboard
+
+The dashboard features three key visuals:
+
+1) **Static Total Average Ratings:** Displays the overall average ratings for each service metric.
+2) **Average Metrics by Country:** Allows users to compare average ratings by country against the total average ratings. This visual updates dynamically based on selected metrics, parameters, and timeline.
+3) **Average Ratings by Month:** Shows trends in ratings over time, with data changing according to the selected metrics and parameters.
+
+Additionally, when hovering over the map, you'll see the average rating and the number of reviews for each country. This interactive feature enhances the user's ability to analyze performance data in detail, providing a comprehensive view of British Airways' service quality across different regions and time periods.
 
 Here is a screenshot of the ready visualization:
 ![BA tableau snip](https://github.com/user-attachments/assets/7e1cc7d2-0e38-401e-8a24-6e12a66a8d12)
