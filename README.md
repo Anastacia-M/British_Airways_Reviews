@@ -41,6 +41,7 @@ Additionally, when hovering over the map, you'll see the average rating and the 
 
 ### Dashboard
 You can access the dashboard via the following link: https://public.tableau.com/app/profile/ana.m7389/viz/BritishAirways_reviewsbycountry_map/BAMapDashboard
+
 ![BA tableau snip](https://github.com/user-attachments/assets/7e1cc7d2-0e38-401e-8a24-6e12a66a8d12)
 
 
