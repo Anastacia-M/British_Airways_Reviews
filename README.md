@@ -5,6 +5,7 @@
  - [Data Sources](#data-sources)
  - [Exploratory Data Analysis](#exploratory-data-analysis)
  - [Visualization](#visualization)
+ - [Dashboard](#dashboard)
   
 ### Project Overview
 This data analysis project aims to empower users to explore British Airways reviews across various countries from March 2016 to October 2023. The primary objective was to develop an interactive dashboard that allows users to analyze different service metrics, seat types, traveler categories, and aircraft models. By enabling users to adjust parameters and timelines, the dashboard facilitates the discovery of patterns and trends, providing a flexible tool for data-driven decision-making and enhancing the understanding of the airline’s performance by country. The focus is on creating a user-friendly platform where users can generate their own insights based on their specific interests and needs.
@@ -29,8 +30,7 @@ The purpose of this dashboard is to allow users to explore British Airways revie
 These questions are intended to guide users in their exploration, helping them make the most of the dashboard's interactive features. The analyst's goal was to create a dynamic tool that allows users to play with different metrics, parameters, and timelines, rather than delivering a static report with predefined insights. This approach is particularly useful when the data is complex, and users have varying needs or interests.
 
 ### Visualization
-This dashboard provides an interactive platform for users to explore the data, select relevant parameters, and gain insights into British Airways' performance across various countries and metrics. You can access the dashboard via the following link: https://public.tableau.com/app/profile/ana.m7389/viz/BritishAirways_reviewsbycountry_map/BAMapDashboard
-
+This dashboard provides an interactive platform for users to explore the data, select relevant parameters, and gain insights into British Airways' performance across various countries and metrics. 
 The dashboard features three key visuals:
 
 1) **Static Total Average Ratings:** Displays the overall average ratings for each service metric.
@@ -39,7 +39,8 @@ The dashboard features three key visuals:
 
 Additionally, when hovering over the map, you'll see the average rating and the number of reviews for each country. This interactive feature enhances the user's ability to analyze performance data in detail, providing a comprehensive view of British Airways' service quality across different regions and time periods.
 
-Here is a screenshot of the ready visualization:
+### Dashboard
+You can access the dashboard via the following link: https://public.tableau.com/app/profile/ana.m7389/viz/BritishAirways_reviewsbycountry_map/BAMapDashboard
 ![BA tableau snip](https://github.com/user-attachments/assets/7e1cc7d2-0e38-401e-8a24-6e12a66a8d12)
 
 
