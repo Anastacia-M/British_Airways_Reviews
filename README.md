@@ -40,7 +40,7 @@ The dashboard features three key visuals:
 Additionally, when hovering over the map, you'll see the average rating and the number of reviews for each country. This interactive feature enhances the user's ability to analyze performance data in detail, providing a comprehensive view of British Airways' service quality across different regions and time periods.
 
 ### Dashboard
-You can access the dashboard via the following link: https://public.tableau.com/app/profile/ana.m7389/viz/BritishAirways_reviewsbycountry_map/BAMapDashboard
+You can access the dashboard via the following link, and a screenshot of the dashboard is provided below for reference. https://public.tableau.com/app/profile/ana.m7389/viz/BritishAirways_reviewsbycountry_map/BAMapDashboard
 
 ![BA tableau snip](https://github.com/user-attachments/assets/7e1cc7d2-0e38-401e-8a24-6e12a66a8d12)
 
